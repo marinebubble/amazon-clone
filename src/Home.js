@@ -15,7 +15,7 @@ function Home() {
                 <Product title="Dell モバイルノートパソコン" price={80819}
                 image="https://m.media-amazon.com/images/I/715q5O-9F9L._AC_SL1500_.jpg" 
                 rating={4} />
-                <Product title="東芝 55V型 液晶テレビ レグザ 55M540X" price={3101955}
+                <Product title="東芝 55V型 液晶テレビ レグザ 55M540X" price={31000}
                 image="https://m.media-amazon.com/images/I/71pwhTqIkdL._AC_SL1500_.jpg" 
                 rating={5}/>
                 <Product title="GOKUMIN 低反発枕 まくら" price={3480}
